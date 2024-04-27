@@ -3,6 +3,9 @@
 
 Design Dynamo is a React project showcasing the work of a digital product design agency. It includes various sections such as a hero section, services section, pricing plans, a video section, and a footer.
 
+![react2](https://github.com/fahad0samara/react-DesignDynamo/assets/90055525/eea16071-36d4-4630-ad1b-46629046bc9d)
+
+
 ## Features
 
 - Modern and responsive design
